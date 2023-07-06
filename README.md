@@ -26,4 +26,4 @@ $ go test -v ./... | tc
 
 ### Resultat:
 
-![Go test avec le module tc](resultat-go-test-tc.png)
+![exemple de go test avec le module tc](resultat-go-test-tc.png)

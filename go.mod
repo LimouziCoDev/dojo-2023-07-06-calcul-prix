@@ -1,4 +1,4 @@
-module github.com/NouemanKHAL/calcul-prix
+module github.com/LimouziCoDev/dojo-2023-07-06-calcul-prix
 
 go 1.19
 
