@@ -1,3 +1,5 @@
+github.com/danieldn/tc v0.0.0-20200509183228-eb2ad54360ce h1:LDiAKdy0IXn/FxS7oWkuFhFNW3R+LU2LePmt6eeZ6kM=
+github.com/danieldn/tc v0.0.0-20200509183228-eb2ad54360ce/go.mod h1:accj7yzY3Fug01mi5xx1Jl1Cbe2q2Zud7qazxWgirKo=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
